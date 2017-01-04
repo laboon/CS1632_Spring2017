@@ -6,6 +6,7 @@ Software Quality Assurance - Spring 2017
 **Taught by:** Bill Laboon (laboon@cs.pitt.edu)
 
 **Professor's Office Hours:**
+
   * SENSQ 6305  
   * Monday and Wednesday, 2:30 PM - 4:00 PM
   * or by appointment.  
@@ -15,7 +16,7 @@ Software Quality Assurance - Spring 2017
 
 **Room:** SENSQ 5129
 
-**TA**: TBD
+**TA**: Matt Barren
 
 **Class GitHub repo:** https://www.github.com/laboon/CS1632_Spring2017  
 **Required Text:** _A Friendly Introduction to Software Testing_ by Bill Laboon.

@@ -109,7 +109,7 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 
 * Behavior-Driven Development
 
-## WEEK 16 (17 and 19 Apr)
+## WEEK 16 (17 Apr and 19 Apr)
 
 * Guest Lecture
 
