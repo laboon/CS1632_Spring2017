@@ -10,6 +10,6 @@ FUN-ARGS-INVALID - If an argument is invalid for any reason (specifically, the n
 
 FUN-SMALL-NUM - If the "number of times" argument is less than 100, the system shall issue a warning and ask the user if they wish to continue.
 
-FUN-SMALL-NUM-CONT - When asking the user if they wish to continue, the system shall be case-insensitive.  That is, the user may enter either "Y" or "y" to indicate yes, or either "N" or "n" to indicate no.  If invalid input (i.e., anything other than "Y", "y", "N", or "n") is entered, the user shall be asked again to enter their selection.
+FUN-SMALL-NUM-CONT - When asking the user if they wish to continue, the system shall be case-insensitive.  That is, the user may enter either "Y" or "y" to indicate yes, or either "N" or "n" to indicate no.  If invalid input (i.e., anything other than "Y", "y", "N", or "n") is entered, the user shall be asked again to enter their selection.  This shall be repeated as many times as necessary until the user enters valid input.
 
 NF-PERFORMANCE - For any given number of threads n, the system shall run faster (that is, shall complete execution and display results in a smaller amount of time), with a higher n.
