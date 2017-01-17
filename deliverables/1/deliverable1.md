@@ -86,7 +86,7 @@ $ java -jar GoatGoatCar.jar car goat 10001 4
 
 GoatGoatCar.jar is available in this directory.  
 
-The requirements are listed in the file requirements.txt.
+The requirements are listed in the file requirements.md.
 
 Please feel free to email me or come to office hours to discuss any problems you have. 
  
