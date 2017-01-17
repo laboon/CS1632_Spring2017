@@ -62,9 +62,9 @@ Other attributes of a defect (e.g., SEVERITY or IMPACT) are not necessary.  The 
 ## GoatGoatCar
 GoatGoatCar is going to be our way of determining the correct answer to the "Monty Hall Problem" (https://en.wikipedia.org/wiki/Monty_Hall_problem).  The Monty Hall Problem can be summarized as follows:
 
-_Assume you are on a game show with three closed doors.  Behind one door is a car (which you want), and behind the other two doors are goats (which you do not want - if you do want a goat, I implore you to research how difficult goat tending is).  You pick one door, which you hope has the car behind it.  The game show host - who knows where the car is, and so will not open that door - opens up one of the two doors you did not select.  Behind that door is, of course, a goat.
+_Assume you are on a game show with three closed doors.  Behind one door is a car (which you want), and behind the other two doors are goats (which you do not want - if you do want a goat, I implore you to research how difficult goat tending is).  You pick one door, which you hope has the car behind it.  The game show host - who knows where the car is, and so will not open that door - opens up one of the two doors you did not select.  Behind that door is, of course, a goat._
 
-The question: is the optimal strategy to switch doors to the remaining closed door, to stay with the door you've already selected, or does it not matter?_
+_The question: is the optimal strategy to switch doors to the remaining closed door, to stay with the door you've already selected, or does it not matter?_
 
 Our program will attempt to find the solution the worst possible way - by brute force.  It will simulate a large number of these decisions and give a summary at the end of what percentage of the time switching would give you the "good item" and what percentage of the time staying would have won you the "good" item.
 
