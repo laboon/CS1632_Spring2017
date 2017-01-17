@@ -35,38 +35,36 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 * Breaking Software
   * READING: AFIST, Chapter 7
 
-* Smoke, Acceptance, and Exploratory Testing
-  * READING: AFIST, Chapter 10
-
-
-## WEEK 6 (6 Feb and 8 Feb)
-
 * Automated and Manual Testing, Unit Testing Part 1
   * READING: AFIST, Chapter 12-13
 
+## WEEK 6 (6 Feb and 8 Feb)
+
 * Unit Testing Part 2
   * READING: AFIST, Chapter 14
-  
-## WEEK 7 (13 Feb and 15 Feb)
 
 * Unit Testing Exercise
+
+## WEEK 7 (13 Feb and 15 Feb)
 
 * Test-driven Development
   * READING: AFIST, Chapter 15
 
-## WEEK 8 (20 Feb and 22 Feb)
-
 * Writing Testable Code
   * READING: AFIST, Chapter 16
 
+## WEEK 8 (20 Feb and 22 Feb)
+
 * Pairwise and Combinatorial Testing
   * READING: AFIST, Chapter 17
+
+* Web Testing with Selenium, Part 1
 
 ## WEEK 9 (27 Feb and 1 Mar)
 
 * MIDTERM
 
-* Web Testing with Selenium, Part 1
+* Web Testing with Selenium, Part 2
 
 ## WEEK 10 (6 Mar and 8 Mar)
 
@@ -76,23 +74,24 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 
 ## WEEK 11 (13 Mar and 15 Mar)
 
-* Web Testing with Selenium, Part 2
-
 * Performance Testing Part 1
   * READING: AFIST, Chapter 19
 
-## WEEK 12 (20 Mar and 22 Mar)
-
 * Performance Testing Part 2
 
-* Stochastic and Property-Based Testing
-  * READING: AFIST, Chapter 18
+## WEEK 12 (20 Mar and 22 Mar)
 
-## WEEK 13 (27 Mar and 29 Mar)
+* Smoke, Acceptance, and Exploratory Testing
+  * READING: AFIST, Chapter 10
 
 * Static Analysis, Part 1
 
+## WEEK 13 (27 Mar and 29 Mar)
+
 * Static Analysis, Part 2
+
+* Stochastic and Property-Based Testing
+  * READING: AFIST, Chapter 18
 
 ## WEEK 14 (3 Apr and 5 Apr)
 
