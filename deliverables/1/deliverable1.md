@@ -3,7 +3,7 @@ Spring Semester 2017
 
 * ASSIGNED: 18 JAN 2017
 
-* DUE: 1 FEB 2017
+* DUE: 3 FEB 2017
 
 ## Deliverable 1
 
