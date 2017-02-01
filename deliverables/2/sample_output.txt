@@ -1,0 +1,131 @@
+$ java CitySim9004 1
+Driver 1 heading from Hillman to Sennott via Fifth Ave.
+Driver 1 heading from Sennott to Presby via Bill St.
+Driver 1 heading from Presby to Union via Fourth Ave.
+Driver 1 heading from Union to Hillman via Phil St.
+Driver 1 heading from Hillman to Union via Phil St.
+Driver 1 heading from Union to Outside City via Fourth Ave.
+Driver 1 has gone to Philadelphia!
+Driver 1 met with Professor Laboon 1 time(s).
+-----
+Driver 2 heading from Sennott to Presby via Bill St.
+Driver 2 heading from Presby to Union via Fourth Ave.
+Driver 2 heading from Union to Hillman via Phil St.
+Driver 2 heading from Hillman to Union via Phil St.
+Driver 2 heading from Union to Outside City via Fourth Ave.
+Driver 2 has gone to Philadelphia!
+Driver 2 met with Professor Laboon 1 time(s).
+-----
+Driver 3 heading from Union to Outside City via Fourth Ave.
+Driver 3 has gone to Philadelphia!
+Driver 3 met with Professor Laboon 0 time(s).
+That student missed out!
+-----
+Driver 4 heading from Sennott to Presby via Bill St.
+Driver 4 heading from Presby to Union via Fourth Ave.
+Driver 4 heading from Union to Hillman via Phil St.
+Driver 4 heading from Hillman to Union via Phil St.
+Driver 4 heading from Union to Hillman via Phil St.
+Driver 4 heading from Hillman to Union via Phil St.
+Driver 4 heading from Union to Outside City via Fourth Ave.
+Driver 4 has gone to Philadelphia!
+Driver 4 met with Professor Laboon 1 time(s).
+-----
+Driver 5 heading from Hillman to Sennott via Fifth Ave.
+Driver 5 heading from Sennott to Presby via Bill St.
+Driver 5 heading from Presby to Union via Fourth Ave.
+Driver 5 heading from Union to Outside City via Fourth Ave.
+Driver 5 has gone to Philadelphia!
+Driver 5 met with Professor Laboon 1 time(s).
+-----
+
+$ java CitySim9004 10
+Driver 1 heading from Hillman to Union via Phil St.
+Driver 1 heading from Union to Hillman via Phil St.
+Driver 1 heading from Hillman to Union via Phil St.
+Driver 1 heading from Union to Outside City via Fourth Ave.
+Driver 1 has gone to Philadelphia!
+Driver 3 met with Professor Laboon 0 time(s).
+That student missed out!
+-----
+Driver 2 heading from Hillman to Union via Phil St.
+Driver 2 heading from Union to Hillman via Phil St.
+Driver 2 heading from Hillman to Union via Phil St.
+Driver 2 heading from Union to Hillman via Phil St.
+Driver 2 heading from Hillman to Sennott via Fifth Ave.
+Driver 2 heading from Sennott to Presby via Bill St.
+Driver 2 heading from Presby to Sennott via Bill St.
+Driver 2 heading from Sennott to Outside City via Fifth Ave.
+Driver 2 has gone to Cleveland!
+Driver 3 met with Professor Laboon 2 time(s).
+-----
+Driver 3 heading from Hillman to Union via Phil St.
+Driver 3 heading from Union to Hillman via Phil St.
+Driver 3 heading from Hillman to Union via Phil St.
+Driver 3 heading from Union to Outside City via Fourth Ave.
+Driver 3 has gone to Philadelphia!
+Driver 3 met with Professor Laboon 0 time(s).
+That student missed out!
+-----
+Driver 4 heading from Hillman to Sennott via Fifth Ave.
+Driver 4 heading from Sennott to Presby via Bill St.
+Driver 4 heading from Presby to Union via Fourth Ave.
+Driver 4 heading from Union to Outside City via Fourth Ave.
+Driver 4 has gone to Philadelphia!
+Driver 4 met with Professor Laboon 1 time(s).
+-----
+Driver 5 heading from Union to Outside City via Fourth Ave.
+Driver 5 has gone to Philadelphia!
+Driver 5 met with Professor Laboon 0 time(s).
+That student missed out!
+-----
+
+
+$ java CitySim9004 111
+Driver 1 heading from Hillman to Sennott via Fifth Ave.
+Driver 1 heading from Sennott to Outside City via Fifth Ave.
+Driver 1 has gone to Cleveland!
+Driver 1 met with Professor Laboon 1 time(s).
+-----
+Driver 2 heading from Presby to Sennott via Bill St.
+Driver 2 heading from Sennott to Presby via Bill St.
+Driver 2 heading from Presby to Union via Fourth Ave.
+Driver 2 heading from Union to Outside City via Fourth Ave.
+Driver 2 has gone to Philadelphia!
+Driver 2 met with Professor Laboon 1 time(s).
+-----
+Driver 3 heading from Presby to Sennott via Bill St.
+Driver 3 heading from Sennott to Presby via Bill St.
+Driver 3 heading from Presby to Union via Fourth Ave.
+Driver 3 heading from Union to Hillman via Phil St.
+Driver 3 heading from Hillman to Union via Phil St.
+Driver 3 heading from Union to Hillman via Phil St.
+Driver 3 heading from Hillman to Union via Phil St.
+Driver 3 heading from Union to Hillman via Phil St.
+Driver 3 heading from Hillman to Union via Phil St.
+Driver 3 heading from Union to Hillman via Phil St.
+Driver 3 heading from Hillman to Sennott via Fifth Ave.
+Driver 3 heading from Sennott to Presby via Bill St.
+Driver 3 heading from Presby to Sennott via Bill St.
+Driver 3 heading from Sennott to Presby via Bill St.
+Driver 3 heading from Presby to Sennott via Bill St.
+Driver 3 heading from Sennott to Presby via Bill St.
+Driver 3 heading from Presby to Sennott via Bill St.
+Driver 3 heading from Sennott to Presby via Bill St.
+Driver 3 heading from Presby to Sennott via Bill St.
+Driver 3 heading from Sennott to Outside City via Fifth Ave.
+Driver 3 has gone to Cleveland!
+Driver 3 met with Professor Laboon 6 time(s).
+Wow, that driver needed lots of CS help!
+-----
+Driver 4 heading from Union to Hillman via Phil St.
+Driver 4 heading from Hillman to Sennott via Fifth Ave.
+Driver 4 heading from Sennott to Outside City via Fifth Ave.
+Driver 4 has gone to Cleveland!
+Driver 4 met with Professor Laboon 1 time(s).
+-----
+Driver 5 heading from Hillman to Sennott via Fifth Ave.
+Driver 5 heading from Sennott to Outside City via Fifth Ave.
+Driver 5 has gone to Cleveland!
+Driver 5 met with Professor Laboon 1 time(s).
+-----
