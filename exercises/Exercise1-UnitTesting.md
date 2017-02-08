@@ -80,9 +80,9 @@ First, we need to create a test runner.  I have created a simple one (TestRunner
 To run it, you will need to compile it and ensure that the junit and hamcrest jars are in your classpath.
 
 ```
-$ javac -cp .:./junit-4.12.jar:./hamcrest-core-1.3.jar *.java
+$ javac -cp ./junit-4.12.jar:./hamcrest-core-1.3.jar:./mockito-core-1.10.19.jar:./objenesis-2.4.jar *.java
 
-$ java -cp .:./junit-4.12.jar:./hamcrest-core-1.3.jar TestRunner
+$ java -cp .:./junit-4.12.jar:./hamcrest-core-1.3.jar:./mockito-core-1.10.19.jar:./objenesis-2.4.jar TestRunner
 testShouldFail(NoogieTest): expected null, but was:<java.lang.Object@22d8cfe0>
 testMeowAndBarkAreEqualWillFail(CoogieTest): expected:<[Meow]> but was:<[Bark]>
 
