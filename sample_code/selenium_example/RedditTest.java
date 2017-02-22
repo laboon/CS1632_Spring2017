@@ -96,9 +96,11 @@ public class RedditTest {
 	public void testBadPasswordResetLink() {
 		
 		// Enter username "meow", password "meow"
-		
-		driver.findElement(By.name("user")).sendKeys("dasbill");
-		driver.findElement(By.name("passwd")).sendKeys("meow");
+	    
+                // ENTER YOUR OWN USERNAME/INVALID PASSWORD HERE!
+	    
+		// driver.findElement(By.name("user")).sendKeys("dasbill");
+		// driver.findElement(By.name("passwd")).sendKeys("meow");
 		
 		// Look for the submit button (in the login div) and click
 		// to attempt to login 
