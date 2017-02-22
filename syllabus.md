@@ -74,44 +74,43 @@ AFIST = _A Friendly Introduction to Software Testing_ by Bill Laboon
 
 ## WEEK 11 (13 Mar and 15 Mar)
 
+* Web Testing Exercise
+
 * Performance Testing Part 1
   * READING: AFIST, Chapter 19
 
-* Performance Testing Part 2
-
 ## WEEK 12 (20 Mar and 22 Mar)
+
+* Performance Testing Part 2
 
 * Smoke, Acceptance, and Exploratory Testing
   * READING: AFIST, Chapter 10
 
-* Static Analysis, Part 1
-
 ## WEEK 13 (27 Mar and 29 Mar)
 
+* Static Analysis, Part 1
+
 * Static Analysis, Part 2
+
+## WEEK 14 (3 Apr and 5 Apr)
 
 * Stochastic and Property-Based Testing
   * READING: AFIST, Chapter 18
 
-## WEEK 14 (3 Apr and 5 Apr)
-
 * Developing a Testing Strategy
   * Testing Strategy Exercise
 
-* Security Testing
-  * READING: AFIST, Chapter 20
-
 ## WEEK 15 (10 Apr and 12 Apr)
-
-* Security Exercise
 
 * Interacting With Stakeholders
   * READING: AFIST, Chapter 21
   * Stakeholder Interaction Exercise
 
-## WEEK 16 (17 Apr and 19 Apr)
+* Security Testing
+  * READING: AFIST, Chapter 20
 
-* Behavior-Driven Development
+## WEEK 16 (17 Apr and 19 Apr)
+* Security Exercise
 
 * MIDTERM 2
 
