@@ -5,9 +5,9 @@ DUE 15 MAR 2017
 
 ## Deliverable 3
 
-For this assignment, you and a partner will write a systems-level, automated black-box tests for a web app using Selenium and JUnit. 
+For this assignment, you and a partner will write systems-level, automated black-box tests for a web app using Selenium and JUnit. 
 
-Test code should be on GitHub and shared with the TA and myself by the beginning of class on the due date.  You 
+Test code should be on GitHub and shared with the TA and myself by the beginning of class on the due date.
 
 You may work with ONE partner for this deliverable.  However, it CANNOT be the same person you worked with for Deliverable 1.  You may also opt to work by yourself, but the requirements for the assignment are the same.  
 
