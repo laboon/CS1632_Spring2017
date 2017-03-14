@@ -5,10 +5,10 @@ Spring Semester 2017
 
 For this assignment, you and a partner will profile a Befunge-93 interpreter, and improve its performance by refactoring three methods (to be determined by the results of the profiling), as well as writing appropriate pinning tests for each of them.  This will consist of several parts:
 
-1. Profiling (before) to determine which method is the most CPU-intensive
+1. Profiling and timing (before) to determine which methods are the most CPU-intensive
 2. Adding at least three pinning tests (in the form of unit tests) to each modified method to show that the functionality is unchanged by your modifications
-3. Refactoring the method to be more performant (from a CPU and time perspective)
-4. Profiling (after) showing that your rewrite helped make your method more performant
+3. Refactoring the method to be more performant (from a CPU / time perspective)
+4. Profiling and timing (after) showing that your rewrite helped make your method more performant
 
 There is an existing test suite which will help you, although it has gaps!  This is a common problem with legacy code...
 
@@ -133,7 +133,7 @@ You should execute at least three runs of the FizzBuzz.bf program before and aft
 ## Grading
 * Summary - 10%
 * VisualVM (or other profiler) screenshots (before and after) - 10%
-* Initial and final times included - 10%
+* Initial and final times (>= 3 of each + mean) included - 10%
 * Method choice and refactoring - 40%
 * Pinning Tests - 30%
 
