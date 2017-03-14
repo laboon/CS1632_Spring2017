@@ -89,7 +89,7 @@ Although you can play around with the various programs, and even write your own,
 
 Understanding the details is left as an exercise for the reader.
 
-Any performance issues you find will NOT be the result of the Befunge code itself.
+Any performance issues you find will NOT be the result of the Befunge code itself or the graphical display (Swing components, e.g., MainPanel or RunButton).
 
 ## Compilation and Execution
 
