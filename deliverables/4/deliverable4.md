@@ -1,6 +1,8 @@
 # CS 1632 - Software Quality Assurance
 Spring Semester 2017
 
+__DUE 27 MAR 2017_
+
 ## Deliverable 4
 
 For this assignment, you and a partner will profile a Befunge-93 interpreter, and improve its performance by refactoring three methods (to be determined by the results of the profiling), as well as writing appropriate pinning tests for each of them.  This will consist of several parts:
