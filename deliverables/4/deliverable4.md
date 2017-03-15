@@ -1,7 +1,7 @@
 # CS 1632 - Software Quality Assurance
 Spring Semester 2017
 
-__DUE 27 MAR 2017_
+__DUE 27 MAR 2017__
 
 ## Deliverable 4
 
