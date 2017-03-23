@@ -14,10 +14,7 @@ This project will consist of the following steps:
 1. Use findbugs to statically analyze your code
 2. Use checkstyle with the included configuration file (google_checks_modified.xml) to find any style issues with your code and fix them.
 3. Fix *all* of the errors found by findbugs (with the exception of "Dead store to local variables" issues)
-4. Ensure that you did not cause any regression failures, by:
-  1. Running your test suite
-  2. Running findbugs a final time
-  3. Running checkstyle a final time
+4. Ensure that you did not cause any regression failures, by: (1) running your test suite, (2) running findbugs a final time, and (3) running checkstyle a final time.
 
 Your final version should have no bugs found by findbugs and no violations reported by checkstyle.
 
