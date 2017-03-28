@@ -1,0 +1,64 @@
+Summary and concerns (10%):                               _____ / 10
+  * Specify any issues had by student (-7 if not)
+  * More than one typo, -1 per each (up to -3)
+
+Screenshot of profiler tests (10%):                       _____ / 10
+  * -6 if only one included (should be one before, one after)
+
+Initial and final times included (10%):
+  * Three tests before + arithmetic mean
+  * Three tests after + arithmetic mean
+  * -4 if only one time and not three + mean
+  * -5 if missing "before"
+  * -5 if missing "after"
+
+Method choice and refactoring (40%):
+
+FizzBuzz program should operate the same as always (no new defects)
+If not, maximum of 25 / 40 on this section.
+
+  * ProgramExecutor.modulo()                              _____  / 10
+    * for loop and location should be removed
+      * -2 if just commented out
+      * -3 if for loop removed, but not location
+      * -4 if for loop remains, but inside line commented
+      
+  * ProgramStack.toString()                               _____ / 15
+    * throwaway variable and for loop removed
+      * -3 if throwaway String var still there, but loop gone
+      * -2 if just commented out
+      * -4 if loop still there, but inside line commented
+    * StringBuilder instead of String concat
+      * -1 if StringBuilder not used
+
+  * ProgramArea.getOpCode()                               _____ / 15
+    * Remove loop and just return _area[x][y]
+      * -5 if loops exist, but start from 0
+      * -2 if just commented out
+
+Pinning tests (30%):
+
+  * Relevant tests for each method (9 new tests total)    _____ / 20
+    * -5 for each test < 9
+    * -3 for each test missing an assertion
+    * -3 for each test not annotated with @Test
+
+  * Tests all pass
+    * -2 for each test which does not pass 
+
+  * Good style:                                           _____ / 10
+    * All tests properly commented with descriptions (-3 each if
+       not, up to -9)
+    * No gratuitously ugly, superfluous, or commented code (up to -5)
+
+Bonus adjustment (maximum +5):
+   * +1 if defect found
+   * +2 if defect found and fixed
+   * +5 if defect found, fixed, and unit tested
+
+Submission issues (-10) or other adjustments:             _____
+
+Total:                                                    _____ / 100
+
+
+
