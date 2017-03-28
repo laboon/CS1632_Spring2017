@@ -51,12 +51,12 @@ Pinning tests (30%):
        not, up to -9)
     * No gratuitously ugly, superfluous, or commented code (up to -5)
 
-Bonus adjustment (maximum +5):
+Bonus adjustment (maximum +5):                            _____ / 0
    * +1 if defect found
    * +2 if defect found and fixed
    * +5 if defect found, fixed, and unit tested
 
-Submission issues (-10) or other adjustments:             _____
+Submission issues (-10) or other adjustments:             _____ / 0
 
 Total:                                                    _____ / 100
 
