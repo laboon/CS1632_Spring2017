@@ -26,6 +26,7 @@ public class Foo {
     driver.findElement(By.linkText("Cathedral Pics")).click();
     driver.findElement(By.linkText("Fibonacci")).click();
     driver.findElement(By.linkText("Factorial")).click();
+    assertTrue("meow", false);
   }
 
   @After
