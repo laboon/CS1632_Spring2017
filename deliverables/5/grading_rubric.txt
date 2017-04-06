@@ -1,0 +1,26 @@
+Summary:                                         ____ / 5
+  * -4 if no issues/details given
+  * -3 if > 1 grammatical error
+
+* Screenshots of Findbugs and checkstyle output  ____ / 5
+  * -3 if only one or the other
+
+* Befunge IDE still works (no regression) (25%):
+  * If code does not compile, max 5/25 on this section
+
+  * All tests pass                               ____ / 10
+
+  * FizzBuzz still runs and gives correct result ____ / 15
+    * -5 if output correct, but stack != [0]
+    * -5 per error in output
+
+All checkstyle issues fixed:                     ____ / 30
+  * -5 for each error still found
+  * -3 if documented but not fixed
+  
+All FindBugs issues fixed                        ____ / 35
+  * -6 for every issue FindBugs still finds
+  * -4 if documented but not fixed
+  * EXCEPT Dead Local Store, ignore those
+
+TOTAL:                                           ____ / 100
