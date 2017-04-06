@@ -9,6 +9,7 @@ Summary:                                         ____ / 5
   * If code does not compile, max 5/25 on this section
 
   * All tests pass                               ____ / 10
+    * -5 per failing test
 
   * FizzBuzz still runs and gives correct result ____ / 15
     * -5 if output correct, but stack != [0]
